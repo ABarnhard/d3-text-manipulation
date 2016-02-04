@@ -1,0 +1,19 @@
+{
+  "name": "d3-text-manipulation",
+  "version": "1.0.0",
+  "description": "experimenting with D3 for text rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABarnhard/d3-text-manipulation.git"
+  },
+  "author": "Adam Barnhard <admbarn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ABarnhard/d3-text-manipulation/issues"
+  },
+  "homepage": "https://github.com/ABarnhard/d3-text-manipulation#readme"
+}
